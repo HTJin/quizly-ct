@@ -1,1 +1,1 @@
-# quizly_CT
+# quizly-ct
